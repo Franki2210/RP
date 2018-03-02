@@ -1,0 +1,11 @@
+D:\ds-1-master\src\Frontend\bin\Debug\netcoreapp2.0\Frontend.deps.json
+D:\ds-1-master\src\Frontend\bin\Debug\netcoreapp2.0\Frontend.runtimeconfig.json
+D:\ds-1-master\src\Frontend\bin\Debug\netcoreapp2.0\Frontend.runtimeconfig.dev.json
+D:\ds-1-master\src\Frontend\bin\Debug\netcoreapp2.0\Frontend.dll
+D:\ds-1-master\src\Frontend\bin\Debug\netcoreapp2.0\Frontend.pdb
+D:\ds-1-master\src\Frontend\obj\Debug\netcoreapp2.0\Frontend.csprojResolveAssemblyReference.cache
+D:\ds-1-master\src\Frontend\obj\Debug\netcoreapp2.0\Frontend.csproj.CoreCompileInputs.cache
+D:\ds-1-master\src\Frontend\obj\Debug\netcoreapp2.0\Frontend.AssemblyInfoInputs.cache
+D:\ds-1-master\src\Frontend\obj\Debug\netcoreapp2.0\Frontend.AssemblyInfo.cs
+D:\ds-1-master\src\Frontend\obj\Debug\netcoreapp2.0\Frontend.dll
+D:\ds-1-master\src\Frontend\obj\Debug\netcoreapp2.0\Frontend.pdb

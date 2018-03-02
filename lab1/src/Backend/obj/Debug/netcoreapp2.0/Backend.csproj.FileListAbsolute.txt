@@ -1,0 +1,10 @@
+D:\ds-1-master\src\Backend\bin\Debug\netcoreapp2.0\Backend.deps.json
+D:\ds-1-master\src\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.json
+D:\ds-1-master\src\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.dev.json
+D:\ds-1-master\src\Backend\bin\Debug\netcoreapp2.0\Backend.dll
+D:\ds-1-master\src\Backend\bin\Debug\netcoreapp2.0\Backend.pdb
+D:\ds-1-master\src\Backend\obj\Debug\netcoreapp2.0\Backend.csproj.CoreCompileInputs.cache
+D:\ds-1-master\src\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfoInputs.cache
+D:\ds-1-master\src\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfo.cs
+D:\ds-1-master\src\Backend\obj\Debug\netcoreapp2.0\Backend.dll
+D:\ds-1-master\src\Backend\obj\Debug\netcoreapp2.0\Backend.pdb
