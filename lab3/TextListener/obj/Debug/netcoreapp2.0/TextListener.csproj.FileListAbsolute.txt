@@ -1,0 +1,11 @@
+C:\Users\Дмитрий\Desktop\lw3\TextListener\bin\Debug\netcoreapp2.0\TextListener.deps.json
+C:\Users\Дмитрий\Desktop\lw3\TextListener\bin\Debug\netcoreapp2.0\TextListener.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\lw3\TextListener\bin\Debug\netcoreapp2.0\TextListener.runtimeconfig.dev.json
+C:\Users\Дмитрий\Desktop\lw3\TextListener\bin\Debug\netcoreapp2.0\TextListener.dll
+C:\Users\Дмитрий\Desktop\lw3\TextListener\bin\Debug\netcoreapp2.0\TextListener.pdb
+C:\Users\Дмитрий\Desktop\lw3\TextListener\obj\Debug\netcoreapp2.0\TextListener.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\lw3\TextListener\obj\Debug\netcoreapp2.0\TextListener.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\lw3\TextListener\obj\Debug\netcoreapp2.0\TextListener.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\lw3\TextListener\obj\Debug\netcoreapp2.0\TextListener.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\lw3\TextListener\obj\Debug\netcoreapp2.0\TextListener.dll
+C:\Users\Дмитрий\Desktop\lw3\TextListener\obj\Debug\netcoreapp2.0\TextListener.pdb

@@ -1,0 +1,11 @@
+C:\Users\Дмитрий\Desktop\lw3\Frontend\bin\Debug\netcoreapp2.0\Frontend.deps.json
+C:\Users\Дмитрий\Desktop\lw3\Frontend\bin\Debug\netcoreapp2.0\Frontend.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\lw3\Frontend\bin\Debug\netcoreapp2.0\Frontend.runtimeconfig.dev.json
+C:\Users\Дмитрий\Desktop\lw3\Frontend\bin\Debug\netcoreapp2.0\Frontend.dll
+C:\Users\Дмитрий\Desktop\lw3\Frontend\bin\Debug\netcoreapp2.0\Frontend.pdb
+C:\Users\Дмитрий\Desktop\lw3\Frontend\obj\Debug\netcoreapp2.0\Frontend.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\lw3\Frontend\obj\Debug\netcoreapp2.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\lw3\Frontend\obj\Debug\netcoreapp2.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\lw3\Frontend\obj\Debug\netcoreapp2.0\Frontend.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\lw3\Frontend\obj\Debug\netcoreapp2.0\Frontend.dll
+C:\Users\Дмитрий\Desktop\lw3\Frontend\obj\Debug\netcoreapp2.0\Frontend.pdb

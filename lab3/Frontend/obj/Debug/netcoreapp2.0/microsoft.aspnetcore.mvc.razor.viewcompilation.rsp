@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Desktop\lw3\Frontend
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=Frontend
+--content-root=C:\Users\Дмитрий\Desktop\lw3\Frontend
+--file=C:\Users\Дмитрий\Desktop\lw3\Frontend\Views\Home\Index.cshtml
+--file=C:\Users\Дмитрий\Desktop\lw3\Frontend\Views\Home\Upload.cshtml
+--file=C:\Users\Дмитрий\Desktop\lw3\Frontend\Views\Shared\Error.cshtml
+--file=C:\Users\Дмитрий\Desktop\lw3\Frontend\Views\Shared\_Layout.cshtml
+--file=C:\Users\Дмитрий\Desktop\lw3\Frontend\Views\_ViewImports.cshtml
+--file=C:\Users\Дмитрий\Desktop\lw3\Frontend\Views\_ViewStart.cshtml
